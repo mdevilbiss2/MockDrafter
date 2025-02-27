@@ -1,0 +1,350 @@
+
+************ Round:1 ************** 
+The Crushers - 2: Aaron Judge 
+The Bowie Blinkin Bobs - 3: Juan Soto 
+Scottish Brutes - 4: Anthony Santander 
+Cruentus Corsairs - 5: Jose Ramirez 
+Team Casey Jones - 6: Elly De La Cruz 
+El Dandies - 7: Bobby Witt Jr. 
+Epic Fail - 8: Kyle Tucker 
+The Edge - 9: Tarik Skubal 
+Scarlet Moon Stars - 10: Yordan Alvarez 
+Charm City Convoluters - 11: Vladimir Guerrero Jr. 
+Team Moon - 12: Corbin Carroll 
+Seishun Gakuen - 13: Zack Wheeler 
+
+************ Round:2 ************** 
+Seishun Gakuen - 14: Logan Gilbert 
+Team Moon - 15: Gerrit Cole 
+Charm City Convoluters - 16: Francisco Lindor 
+Scarlet Moon Stars - 17: Dylan Cease 
+The Edge - 18: Fernando Tatis Jr. 
+Epic Fail - 19: Ketel Marte 
+El Dandies - 20: Rafael Devers 
+Team Casey Jones - 21: Paul Skenes 
+Cruentus Corsairs - 22: Freddie Freeman 
+Scottish Brutes - 23: Shohei Ohtani 
+The Bowie Blinkin Bobs - 24: Corbin Burnes 
+The Crushers - 25: Spencer Strider 
+
+************ Round:3 ************** 
+The Crushers - 26: Jackson Holliday 
+The Bowie Blinkin Bobs - 27: Garrett Crochet 
+Scottish Brutes - 28: Gunnar Henderson 
+Cruentus Corsairs - 29: William Contreras 
+Team Casey Jones - 30: Mookie Betts 
+El Dandies - 31: Steven Kwan 
+Epic Fail - 32: Adley Rutschman 
+The Edge - 33: Cole Ragans 
+Scarlet Moon Stars - 34: Emmanuel Clase 
+Charm City Convoluters - 35: Chris Sale 
+Team Moon - 36: Marcus Semien 
+Seishun Gakuen - 37: Ronald Acuna Jr. 
+
+************ Round:4 ************** 
+Seishun Gakuen - 38: Luis Arraez 
+Team Moon - 39: Manny Machado 
+Charm City Convoluters - 40: Devin Williams 
+Scarlet Moon Stars - 41: Josh Hader 
+The Edge - 42: Alex Bregman 
+Epic Fail - 43: Corey Seager 
+El Dandies - 44: George Kirby 
+Team Casey Jones - 45: Edwin Diaz 
+Cruentus Corsairs - 46: Framber Valdez 
+Scottish Brutes - 47: Pablo Lopez 
+The Bowie Blinkin Bobs - 48: Blake Snell 
+The Crushers - 49: Jackson Chourio 
+
+************ Round:5 ************** 
+The Crushers - 50: Bryce Harper 
+The Bowie Blinkin Bobs - 51: Jackson Merrill 
+Scottish Brutes - 52: Ryan Helsley 
+Cruentus Corsairs - 53: Jose Altuve 
+Team Casey Jones - 54: Trea Turner 
+El Dandies - 55: Mason Miller 
+Epic Fail - 56: Matt Olson 
+The Edge - 57: Will Smith 
+Scarlet Moon Stars - 58: Aaron Nola 
+Charm City Convoluters - 59: Luis Castillo 
+Team Moon - 60: Sonny Gray 
+Seishun Gakuen - 61: Michael King 
+
+************ Round:6 ************** 
+Seishun Gakuen - 62: Raisel Iglesias 
+Team Moon - 63: Pete Alonso 
+Charm City Convoluters - 64: Jarren Duran 
+Scarlet Moon Stars - 65: Julio Rodriguez 
+The Edge - 66: Max Fried 
+Epic Fail - 67: Austin Riley 
+El Dandies - 68: Josh Naylor 
+Team Casey Jones - 69: Yoshinobu Yamamoto 
+Cruentus Corsairs - 70: Ryan Walker 
+Scottish Brutes - 71: Joe Ryan 
+The Bowie Blinkin Bobs - 72: Nolan Arenado 
+The Crushers - 73: Shota Imanaga 
+
+************ Round:7 ************** 
+The Crushers - 74: Yainer Diaz 
+The Bowie Blinkin Bobs - 75: Ozzie Albies 
+Scottish Brutes - 76: Wyatt Langford 
+Cruentus Corsairs - 77: Nico Hoerner 
+Team Casey Jones - 78: Logan Webb 
+El Dandies - 79: Alec Bohm 
+Epic Fail - 80: Brendan Donovan 
+The Edge - 81: Bailey Ober 
+Scarlet Moon Stars - 82: Ian Happ 
+Charm City Convoluters - 83: Tyler Glasnow 
+Team Moon - 84: Kyle Schwarber 
+Seishun Gakuen - 85: Felix Bautista 
+
+************ Round:8 ************** 
+Seishun Gakuen - 86: Andres Munoz 
+Team Moon - 87: Vinnie Pasquantino 
+Charm City Convoluters - 88: Freddy Peralta 
+Scarlet Moon Stars - 89: Salvador Perez 
+The Edge - 90: Isaac Paredes 
+Epic Fail - 91: Tanner Bibee 
+El Dandies - 92: Spencer Steer 
+Team Casey Jones - 93: Justin Steele 
+Cruentus Corsairs - 94: Bryce Miller 
+Scottish Brutes - 95: Cal Raleigh 
+The Bowie Blinkin Bobs - 96: Robert Suarez 
+The Crushers - 97: Zac Gallen 
+
+************ Round:9 ************** 
+The Crushers - 98: Michael Harris II 
+The Bowie Blinkin Bobs - 99: Bryan Reynolds 
+Scottish Brutes - 100: Brandon Nimmo 
+Cruentus Corsairs - 101: Hunter Greene 
+Team Casey Jones - 102: Kevin Gausman 
+El Dandies - 103: Jhoan Duran 
+Epic Fail - 104: Cody Bellinger 
+The Edge - 105: Seiya Suzuki 
+Scarlet Moon Stars - 106: Keibert Ruiz 
+Charm City Convoluters - 107: Jurickson Profar 
+Team Moon - 108: Hunter Brown 
+Seishun Gakuen - 109: Jazz Chisholm Jr. 
+
+************ Round:10 ************** 
+Seishun Gakuen - 110: Jeff Hoffman 
+Team Moon - 111: Jung Hoo Lee 
+Charm City Convoluters - 112: Willy Adames 
+Scarlet Moon Stars - 113: Brandon Pfaadt 
+The Edge - 114: Marcell Ozuna 
+Epic Fail - 115: Jacob deGrom 
+El Dandies - 116: Christian Walker 
+Team Casey Jones - 117: Brent Rooker 
+Cruentus Corsairs - 118: Spencer Schwellenbach 
+Scottish Brutes - 119: Carlos Rodon 
+The Bowie Blinkin Bobs - 120: Yusei Kikuchi 
+The Crushers - 121: CJ Abrams 
+
+************ Round:11 ************** 
+The Crushers - 122: Gleyber Torres 
+The Bowie Blinkin Bobs - 123: Christian Yelich 
+Scottish Brutes - 124: Grayson Rodriguez 
+Cruentus Corsairs - 125: Ryan Pressly 
+Team Casey Jones - 126: Jack Flaherty 
+El Dandies - 127: Junior Caminero 
+Epic Fail - 128: Xander Bogaerts 
+The Edge - 129: Willson Contreras 
+Scarlet Moon Stars - 130: Riley Greene 
+Charm City Convoluters - 131: Yandy Diaz 
+Team Moon - 132: Teoscar Hernandez 
+Seishun Gakuen - 133: Bowden Francis 
+
+************ Round:12 ************** 
+Seishun Gakuen - 134: Bryson Stott 
+Team Moon - 135: Carlos Correa 
+Charm City Convoluters - 136: Masyn Winn 
+Scarlet Moon Stars - 137: Alexis Diaz 
+The Edge - 138: Andres Gimenez 
+Epic Fail - 139: James Wood 
+El Dandies - 140: David Bednar 
+Team Casey Jones - 141: Jake Cronenworth 
+Cruentus Corsairs - 142: Randy Arozarena 
+Scottish Brutes - 143: George Springer 
+The Bowie Blinkin Bobs - 144: Matt Chapman 
+The Crushers - 145: Lourdes Gurriel Jr. 
+
+************ Round:13 ************** 
+The Crushers - 146: Alec Burleson 
+The Bowie Blinkin Bobs - 147: Roki Sasaki 
+Scottish Brutes - 148: Maikel Garcia 
+Cruentus Corsairs - 149: Jonathan India 
+Team Casey Jones - 150: Tyler Stephenson 
+El Dandies - 151: Tanner Scott 
+Epic Fail - 152: Gabriel Moreno 
+The Edge - 153: Kodai Senga 
+Scarlet Moon Stars - 154: Lawrence Butler 
+Charm City Convoluters - 155: Justin Martinez 
+Team Moon - 156: Taylor Ward 
+Seishun Gakuen - 157: Alejandro Kirk 
+
+************ Round:14 ************** 
+Seishun Gakuen - 158: Tommy Edman 
+Team Moon - 159: Oneil Cruz 
+Charm City Convoluters - 160: Nick Castellanos 
+Scarlet Moon Stars - 161: Jeremy Pena 
+The Edge - 162: Jared Jones 
+Epic Fail - 163: Luis Garcia Jr. 
+El Dandies - 164: Adolis Garcia 
+Team Casey Jones - 165: Sean Manaea 
+Cruentus Corsairs - 166: Bo Bichette 
+Scottish Brutes - 167: Mitch Keller 
+The Bowie Blinkin Bobs - 168: Nick Pivetta 
+The Crushers - 169: Tanner Houck 
+
+************ Round:15 ************** 
+The Crushers - 170: Matt McLain 
+The Bowie Blinkin Bobs - 171: Jose Berrios 
+Scottish Brutes - 172: Taj Bradley 
+Cruentus Corsairs - 173: Spencer Horwitz 
+Team Casey Jones - 174: JJ Bleday 
+El Dandies - 175: Cedric Mullins 
+Epic Fail - 176: Luis Gil 
+The Edge - 177: Trevor Megill 
+Scarlet Moon Stars - 178: Max Muncy 
+Charm City Convoluters - 179: Reynaldo Lopez 
+Team Moon - 180: Seth Lugo 
+Seishun Gakuen - 181: Francisco Alvarez 
+
+************ Round:16 ************** 
+Seishun Gakuen - 182: Cristopher Sanchez 
+Team Moon - 183: Lucas Erceg 
+Charm City Convoluters - 184: Lars Nootbaar 
+Scarlet Moon Stars - 185: Jake Burger 
+The Edge - 186: Triston Casas 
+Epic Fail - 187: Nestor Cortes 
+El Dandies - 188: Bryan Woo 
+Team Casey Jones - 189: Mike Trout 
+Cruentus Corsairs - 190: Nick Martinez 
+Scottish Brutes - 191: Dansby Swanson 
+The Bowie Blinkin Bobs - 192: Dylan Crews 
+The Crushers - 193: Zach Eflin 
+
+************ Round:17 ************** 
+The Crushers - 194: MacKenzie Gore 
+The Bowie Blinkin Bobs - 195: Shea Langeliers 
+Scottish Brutes - 196: Jake McCarthy 
+Cruentus Corsairs - 197: Brenton Doyle 
+Team Casey Jones - 198: Andrew Benintendi 
+El Dandies - 199: Chris Bassitt 
+Epic Fail - 200: Ryan Pepiot 
+The Edge - 201: Alex Verdugo 
+Scarlet Moon Stars - 202: Nathaniel Lowe 
+Charm City Convoluters - 203: Brice Turang 
+Team Moon - 204: J.T. Realmuto 
+Seishun Gakuen - 205: Royce Lewis 
+
+************ Round:18 ************** 
+Seishun Gakuen - 206: Jordan Westburg 
+Team Moon - 207: Brandon Woodruff 
+Charm City Convoluters - 208: Eugenio Suarez 
+Scarlet Moon Stars - 209: Nathan Eovaldi 
+The Edge - 210: Sal Frelick 
+Epic Fail - 211: Pete Fairbanks 
+El Dandies - 212: Logan O'Hoppe 
+Team Casey Jones - 213: Joey Ortiz 
+Cruentus Corsairs - 214: Lane Thomas 
+Scottish Brutes - 215: A.J. Puk 
+The Bowie Blinkin Bobs - 216: Ryan Jeffers 
+The Crushers - 217: Christopher Morel 
+
+************ Round:19 ************** 
+The Crushers - 218: Griffin Jax 
+The Bowie Blinkin Bobs - 219: Jason Adam 
+Scottish Brutes - 220: Ronel Blanco 
+Cruentus Corsairs - 221: TJ Friedl 
+Team Casey Jones - 222: Heliot Ramos 
+El Dandies - 223: Colt Keith 
+Epic Fail - 224: Michael Wacha 
+The Edge - 225: Luke Weaver 
+Scarlet Moon Stars - 226: Aroldis Chapman 
+Charm City Convoluters - 227: Austin Wells 
+Team Moon - 228: Ranger Suarez 
+Seishun Gakuen - 229: Sean Murphy 
+
+************ Round:20 ************** 
+Seishun Gakuen - 230: Parker Meadows 
+Team Moon - 231: Shane McClanahan 
+Charm City Convoluters - 232: Shane Baz 
+Scarlet Moon Stars - 233: Erick Fedde 
+The Edge - 234: Anthony Volpe 
+Epic Fail - 235: Kirby Yates 
+El Dandies - 236: Carlos Estevez 
+Team Casey Jones - 237: Bryan Abreu 
+Cruentus Corsairs - 238: Clarke Schmidt 
+Scottish Brutes - 239: Nolan Schanuel 
+The Bowie Blinkin Bobs - 240: Carlos Santana 
+The Crushers - 241: Brady Singer 
+
+************ Round:21 ************** 
+The Crushers - 242: Cade Smith 
+The Bowie Blinkin Bobs - 243: Xavier Edwards 
+Scottish Brutes - 244: Jeff McNeil 
+Cruentus Corsairs - 245: Luis Severino 
+Team Casey Jones - 246: Liam Hendriks 
+El Dandies - 247: Brayan Bello 
+Epic Fail - 248: Aaron Civale 
+The Edge - 249: Robbie Ray 
+Scarlet Moon Stars - 250: Nick Gonzales 
+Charm City Convoluters - 251: Porter Hodge 
+Team Moon - 252: Jason Foley 
+Seishun Gakuen - 253: Ezequiel Tovar 
+
+************ Round:22 ************** 
+Seishun Gakuen - 254: Merrill Kelly 
+Team Moon - 255: Michael Kopech 
+Charm City Convoluters - 256: Charlie Morton 
+Scarlet Moon Stars - 257: Tyler Holton 
+The Edge - 258: Kenley Jansen 
+Epic Fail - 259: Kerry Carpenter 
+El Dandies - 260: Matthew Boyd 
+Team Casey Jones - 261: Brandon Lowe 
+Cruentus Corsairs - 262: Sandy Alcantara 
+Scottish Brutes - 263: Jonah Heim 
+The Bowie Blinkin Bobs - 264: Jorge Soler 
+The Crushers - 265: Luis Rengifo 
+
+************ Round:23 ************** 
+The Crushers - 266: Mark Vientos 
+The Bowie Blinkin Bobs - 267: Connor Norby 
+Scottish Brutes - 268: Colton Cowser 
+Cruentus Corsairs - 269: Andrew Vaughn 
+Team Casey Jones - 270: Zach Neto 
+El Dandies - 271: Spencer Arrighetti 
+Epic Fail - 272: Pete Crow-Armstrong 
+The Edge - 273: Willi Castro 
+Scarlet Moon Stars - 274: Wilyer Abreu 
+Charm City Convoluters - 275: Paul Goldschmidt 
+Team Moon - 276: Ivan Herrera 
+Seishun Gakuen - 277: Jesus Sanchez 
+
+************ Round:24 ************** 
+Seishun Gakuen - 278: Ha-Seong Kim 
+Team Moon - 279: Luis Robert Jr. 
+Charm City Convoluters - 280: Jose Miranda 
+Scarlet Moon Stars - 281: Jesse Winker 
+The Edge - 282: Michael Busch 
+Epic Fail - 283: Jasson Dominguez 
+El Dandies - 284: Ryan O'Hearn 
+Team Casey Jones - 285: J.P. Crawford 
+Cruentus Corsairs - 286: Connor Wong 
+Scottish Brutes - 287: Matthew Shaw 
+The Bowie Blinkin Bobs - 288: Joc Pederson 
+The Crushers - 289: Daulton Varsho 
+
+************ Round:25 ************** 
+The Crushers - 290: Josh Jung 
+The Bowie Blinkin Bobs - 291: Ryan McMahon 
+Scottish Brutes - 292: Thairo Estrada 
+Cruentus Corsairs - 293: Matt Vierling 
+Team Casey Jones - 294: Jacob Wilson 
+El Dandies - 295: Tyler O'Neill 
+Epic Fail - 296: Ceddanne Rafaela 
+The Edge - 297: Bo Naylor 
+Scarlet Moon Stars - 298: Josh Lowe 
+Charm City Convoluters - 299: Jeimer Candelario 
+Team Moon - 300: Ke'Bryan Hayes 
+Seishun Gakuen - 301: Jordan Walker 
