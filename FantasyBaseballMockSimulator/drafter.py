@@ -7,6 +7,7 @@ DRAFT_ORDER = ["The Crushers", "The Bowie Blinkin Bobs", "Scottish Brutes", "Cru
 
 KEEPERS = {
     "The Crushers": ["Aaron Judge", "Spencer Strider", "Jackson Holliday"],
+    "The Bowie Blinkin Bobs": ["Jose Ramirez", "Bobby Witt Jr.", "No Keeper"],
     "Scottish Brutes": ["Anthony Santander", "Shohei Ohtani", "Gunnar Henderson"],
     "Team Casey Jones": ["Elly De La Cruz", "Paul Skenes", "Mookie Betts"]
 }
@@ -43,7 +44,7 @@ class Drafter:
     def draft_keeper_rounds(self, draft_round):
         '''Handles drafting the keepers for the first three rounds of the draft'''
         for team in self.teams:
-            if team.teamName in KEEPERS:
+            if team.teamName in KEEPERS and KEEPERS[team.teamName][draft_round] != "No Keeper":
                 team.draft_player(
                     [KEEPERS[team.teamName][draft_round]],
                     self.keeper_pool[KEEPERS[team.teamName][draft_round]]
